@@ -1,4 +1,3 @@
-# 天池龙珠训练营之python学习记录
 ## 1项目背景
 
 ### 1.1 该项目主要记录了[天池龙珠训练营之python](https://tianchi.aliyun.com/specials/promotion/aicamppython?spm=5176.14154004.J_1266466330.1.15985699TWcUSh)
