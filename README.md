@@ -29,7 +29,7 @@
 
 每篇学习笔记主要包含四个内容：
 
-![IMG_7774](https://user-images.githubusercontent.com/64119929/127110817-3911fab5-7942-4565-a52e-788633761ef2.jpg)
+<img src='https://user-images.githubusercontent.com/64119929/127110817-3911fab5-7942-4565-a52e-788633761ef2.jpg' width="400" align="center" >
 
 
 
